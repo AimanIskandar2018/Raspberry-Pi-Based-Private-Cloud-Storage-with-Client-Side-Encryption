@@ -1,6 +1,8 @@
-# Raspberry-Pi-Based-Private-Cloud-Storage-with-Client-Side-Encryption
+# Raspberry Pi-Based-Private-Cloud-Storage-with-Client-Side-Encryption
+
 A Raspberry Pi-based private cloud storage system utilizing client-side encryption for enhanced data security. This system is designed to give users full control over their data, avoiding third-party cloud providers while ensuring a secure environment.
 
+![Project Logo](./GITHUB%20project%20poster.png)
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -10,7 +12,6 @@ A Raspberry Pi-based private cloud storage system utilizing client-side encrypti
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
-
 
 ## Overview
 This project leverages the Raspberry Pi platform to create a private cloud storage solution for small businesses or individuals who want full control over their data. With a focus on security, the system uses client-side encryption to ensure that sensitive information is encrypted before it's ever uploaded.
