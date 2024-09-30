@@ -1,8 +1,8 @@
-# Raspberry Pi-Based-Private-Cloud-Storage-with-Client-Side-Encryption
+# Raspberry Pi-Based Private Cloud Storage with Client-Side Encryption
 
 A Raspberry Pi-based private cloud storage system utilizing client-side encryption for enhanced data security. This system is designed to give users full control over their data, avoiding third-party cloud providers while ensuring a secure environment.
 
-![Project Logo](./GITHUB%20project%20poster.png)
+![Project Poster](./docs/GITHUB%20project%20poster.png)  
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -24,5 +24,17 @@ This project leverages the Raspberry Pi platform to create a private cloud stora
 - Detailed documentation for setup and usage
 
 ## Documentation
-- [User Guide](./docs/User_Guide.md) - Instructions on how to use the system
-- [Setup and Installation Guide](./docs/Setup_and_Installation_Guide.md) - Detailed steps for setting up the Raspberry Pi-based system
+- [User Guide](./docs/User%20Guide.pdf) - Instructions on how to use the system
+- [Setup and Installation Guide](./docs/Setup%20and%20Installation%20Guide.pdf) - Detailed steps for setting up the Raspberry Pi-based system
+
+## Setup and Installation
+To set up the system on your Raspberry Pi, follow the detailed steps provided in the [Setup and Installation Guide](./docs/Setup%20and%20Installation%20Guide.pdf). This guide includes instructions for setting up Docker, installing Nextcloud, and configuring encryption.
+
+## Usage
+Refer to the [User Guide](./docs/User%20Guide.pdf) for detailed instructions on how to use the system, including uploading files, encrypting data, and accessing the private cloud.
+
+## Contributing
+Contributions are welcome. Feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
