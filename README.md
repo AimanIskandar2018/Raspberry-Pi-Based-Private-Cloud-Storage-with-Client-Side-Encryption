@@ -33,11 +33,13 @@ To set up the system on your Raspberry Pi, follow the detailed steps provided in
 ## Usage
 Refer to the [User Guide](./docs/User%20Guide.pdf) for detailed instructions on how to use the system, including uploading files, encrypting data, and accessing the private cloud.
 
-## User-Specific Scripts
-Each user has tailored encryption and decryption scripts. You can find the individual scripts in their respective directories below:
+## Requesting User Scripts
 
-- **[Test User 1](./User%20Script/Test%20User%201)** - User 1's encryption and decryption scripts
-- **[Test User 2](./User%20Script/Test%20User%202)** - User 2's encryption and decryption scripts
+The user-specific encryption and decryption scripts are stored in a private branch to ensure the security of the system. To request access to the user-specific scripts, please contact me via email:
+
+**[aimaniskandar2222@gmail.com]**
+
+Ensure to specify the script you are requesting access to. Once verified, access will be granted to the private branch.
 
 Ensure you access the correct directory for the specific user’s script.
 
