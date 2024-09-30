@@ -11,7 +11,7 @@ A Raspberry Pi-based private cloud storage system utilizing client-side encrypti
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Overview
 This project leverages the Raspberry Pi platform to create a private cloud storage solution for small businesses or individuals who want full control over their data. With a focus on security, the system uses client-side encryption to ensure that sensitive information is encrypted before it's ever uploaded.
@@ -34,7 +34,5 @@ To set up the system on your Raspberry Pi, follow the detailed steps provided in
 Refer to the [User Guide](./docs/User%20Guide.pdf) for detailed instructions on how to use the system, including uploading files, encrypting data, and accessing the private cloud.
 
 ## Contributing
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
+Contributions are welcome. Feel free to fork the repository and submit a pull request. Thank you!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
