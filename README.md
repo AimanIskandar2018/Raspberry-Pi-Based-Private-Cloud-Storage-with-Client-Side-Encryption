@@ -2,7 +2,7 @@
 
 A Raspberry Pi-based private cloud storage system utilizing client-side encryption for enhanced data security. This system is designed to give users full control over their data, avoiding third-party cloud providers while ensuring a secure environment.
 
-![Project Poster](./docs/GITHUB%20project%20poster.png)  
+![Project Logo](./GITHUB%20project%20poster.png)
 
 ## Table of Contents
 1. [Overview](#overview)
